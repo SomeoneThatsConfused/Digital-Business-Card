@@ -5,6 +5,7 @@ This project is a part of the first solo project in the Scrimba React Course. It
 ## Table of Contents
 - [Description](#description)
 - [Project Requirements](#project-requirements)
+- [Project Screenshot](#project-screenshot)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Programming Languages Used](#programming-languages-used)
@@ -23,7 +24,10 @@ The Digital Business Card project is a web application built using React JS. It 
   - Interests
   - Footer (social icons)
 
+## Project Screenshot
+
 ![](./src/readme-visual-aids/completed-project.png)
+
 ## Getting Started
 
 1. Clone this repository to your local machine.
