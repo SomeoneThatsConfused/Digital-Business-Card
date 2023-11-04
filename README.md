@@ -4,7 +4,7 @@ This project is a part of the first solo project in the Scrimba React Course. It
 
 ## Table of Contents
 - [Description](#description)
-- [Requirements](#requirements)
+- [Project Requirements](#project-requirements)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Programming Languages Used](#programming-languages-used)
@@ -13,9 +13,8 @@ This project is a part of the first solo project in the Scrimba React Course. It
 
 The Digital Business Card project is a web application built using React JS. It serves as a personal online business card with separate components for displaying personal information, a brief "About Me" section, showcasing interests, and including social icons in the footer.
 
-## Requirements
+## Project Requirements
 
-To successfully run and customize this project, the following requirements must be met:
 - Build the project from scratch.
 - Fill in your own information for personalization.
 - Implement separate components for the following sections:
