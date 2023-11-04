@@ -27,8 +27,15 @@ The Digital Business Card project is a web application built using React JS. It 
 
 1. Clone this repository to your local machine.
 2. Open your terminal and navigate to the project's root directory.
-3. Use the following command to start the development server:
-4. The project will likely be available at [http://localhost:5173](http://localhost:5173).
+3. Use the following command to install the project's dependencies:
+```bash
+npm i
+```
+4. Use the following command to start the development server:
+```bash
+npm run dev
+```
+5. The project will likely be available at [http://localhost:5173](http://localhost:5173).
 
 ## Usage
 
