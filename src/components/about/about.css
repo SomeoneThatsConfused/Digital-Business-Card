@@ -1,0 +1,19 @@
+.About {
+  margin: 20px 0;
+}
+.About p > a {
+  background-color: rgb(54, 50, 50);
+  padding: 5px;
+  border-radius: 5px;
+  text-decoration: none;
+  border: 1px solid white;
+}
+.About > h2 {
+  font-size: 30px;
+  margin-bottom: 5px;
+}
+
+.About > p {
+  font-size: 25px;
+  line-height: 37px;
+}

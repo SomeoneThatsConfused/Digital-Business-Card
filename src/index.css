@@ -1,0 +1,18 @@
+body {
+  background-color: rgb(29, 28, 28);
+}
+
+* {
+  margin: 0;
+  color: white;
+  font-family: Inter, sans-serif;
+}
+
+.card-container {
+  background-color: rgb(37, 35, 35);
+  width: 50%;
+  max-width: 1000px;
+  margin: 10rem auto;
+  padding: 70px 90px 0px 90px;
+  border-radius: 20px;
+}

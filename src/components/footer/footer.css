@@ -1,0 +1,27 @@
+.Footer {
+  background-color: rgb(54, 50, 50);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.ContactOptions {
+  display: flex;
+  justify-content: space-around;
+}
+
+.ContactOptions > a {
+  display: block;
+  width: 5rem;
+  height: 5rem;
+  border-radius: 50%;
+  border: 1px solid white;
+}
+
+.ContactOptions :nth-child(1) {
+  background: white url('./assets/github-icon.png') no-repeat center center/cover;
+}
+
+.ContactOptions :nth-child(2) {
+  background: white url('./assets/mail-icon.png') no-repeat center center/cover;
+}
+

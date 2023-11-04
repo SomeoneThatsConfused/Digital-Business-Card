@@ -1,0 +1,13 @@
+.Interest {
+  margin: 20px 0;
+}
+
+.Interest > h2 {
+  font-size: 30px;
+  margin-bottom: 5px;
+}
+
+.Interest > p {
+  font-size: 25px;
+  line-height: 37px;
+}

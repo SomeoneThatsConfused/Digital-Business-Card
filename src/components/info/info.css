@@ -1,0 +1,77 @@
+.Header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 40px;
+}
+
+.Header > img {
+  border-radius: 50%;
+  width: 150px;
+}
+
+.Header .Details {
+  margin-left: 20px;
+}
+
+.Header .Details > h1 {
+  font-size: 50px;
+}
+
+.Tagline {
+  padding: 20px;
+  background-color: rgb(54, 50, 50);
+  margin: 20px 0;
+  border-radius: 10px;
+}
+.Tagline > h3 {
+  margin-bottom: 10px;
+  font-size: 30px;
+}
+
+.Tagline > q {
+  font-size: 40px;
+}
+.Skills {
+  background-color: rgb(54, 50, 50);
+  border-radius: 10px;
+  padding: 10px 20px 20px 20px;
+  margin-bottom: 20px;
+}
+.Skills > h3 {
+  font-size: 30px;
+}
+
+.SkillList {
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.Skills .SkillList > img {
+  width: 120px;
+}
+
+.Links {
+  display: flex;
+  justify-content: space-around;
+}
+.Links > a {
+  display: block;
+  border: none;
+  width: 11.5rem;
+  height: 4rem;
+  border-radius: 10px;
+}
+
+.Links > a:hover {
+  background-color: rgb(204, 197, 197);
+  cursor: pointer;
+}
+
+.Links :nth-child(1) {
+  background: white url('./assets/git-banner.png') no-repeat center center/cover;
+}
+
+.Links :nth-child(2) {
+  background: white url('./assets/email-banner.png') no-repeat center center/cover;
+}
