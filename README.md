@@ -23,10 +23,15 @@ The Digital Business Card project is a web application built using React JS. It 
   - Interests
   - Footer (social icons)
 
+![](./src/readme-visual-aids/completed-project.png)
 ## Getting Started
 
 1. Clone this repository to your local machine.
+![](./src/readme-visual-aids/step1.png)
 2. Open your terminal and navigate to the project's root directory.
+```bash
+cd [path/to/directory] // ignore the square brackets
+```
 3. Use the following command to install the project's dependencies:
 ```bash
 npm i
@@ -36,7 +41,7 @@ npm i
 npm run dev
 ```
 5. The project will likely be available at [http://localhost:5173](http://localhost:5173).
-
+![](./src/readme-visual-aids/step5.png)
 ## Usage
 
 This project is my solution to the Scrimba React course and can be used as a guide and source of inspiration for creating your own digital business card or similar web applications. You can study the code, components, and structure to gain insights into building similar projects.
