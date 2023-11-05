@@ -7,10 +7,10 @@ This project is a part of the first solo project in the Scrimba React Course. It
 - [Project Requirements](#project-requirements)
 - [Project Screenshot](#project-screenshot)
 - [Getting Started](#getting-started)
-  -[Clone it to your Machine](#clone-it-to-your-machine)
-  -[Live Demo](#live-demo)
+  - [Clone it to your Machine](#clone-it-to-your-machine)
+  - [Live Demo](#live-demo)
 - [Usage](#usage)
-- [Programming Languages Used](#programming-languages-used)
+- [Technologies Used](#technologies-used)
 
 ## Description
 
