@@ -54,7 +54,7 @@ npm run dev
 
 This project is my solution to the Scrimba React course and can be used as a guide and source of inspiration for creating your own digital business card or similar web applications. You can study the code, components, and structure to gain insights into building similar projects.
 
-## Programming Languages Used
+## Technologies Used
 
 - Semantic HTML
 - CSS
