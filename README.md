@@ -7,6 +7,8 @@ This project is a part of the first solo project in the Scrimba React Course. It
 - [Project Requirements](#project-requirements)
 - [Project Screenshot](#project-screenshot)
 - [Getting Started](#getting-started)
+  -[Clone it to your Machine](#clone-it-to-your-machine)
+  -[Live Demo](#live-demo)
 - [Usage](#usage)
 - [Programming Languages Used](#programming-languages-used)
 
@@ -30,6 +32,7 @@ The Digital Business Card project is a web application built using React JS. It 
 
 ## Getting Started
 
+## Clone it to your Machine
 1. Clone this repository to your local machine.
    
 ![](./src/readme-visual-aids/step1.png)
@@ -50,14 +53,21 @@ npm run dev
 
 ![](./src/readme-visual-aids/step5.png)
 
+## Live Demo
+
+Visit this site to check it out live!
+
+[Click me to visit the Site!](https://main--serene-melba-849c40.netlify.app/)
+
 ## Usage
 
 This project is my solution to the Scrimba React course and can be used as a guide and source of inspiration for creating your own digital business card or similar web applications. You can study the code, components, and structure to gain insights into building similar projects.
 
 ## Technologies Used
 
-- Semantic HTML
+- HTML
 - CSS
 - React JS
+- Vite
 
 Feel free to explore and study the project to making your very own Digital Business Card!
