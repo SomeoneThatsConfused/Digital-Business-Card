@@ -2,6 +2,10 @@
 
 This project is a part of the first solo project in the Scrimba React Course. It's a Digital Business Card created using Semantic HTML, CSS, and React JS.
 
+## Note 
+
+This project is not responsive to smaller devices yet it will be made responsive in the future
+
 ## Table of Contents
 - [Description](#description)
 - [Project Requirements](#project-requirements)
